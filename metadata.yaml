@@ -10,7 +10,7 @@ creator:
     - Fontane, Henri Theodore
     - Fontane, Henri Théodore
     - Fontane, Teodor
-    birthdate: &id001 1819
+    birthdate: 1819
     deathdate: 1898
     gutenberg_agent_id: '1765'
     url: http://www.gutenberg.org/2009/agents/1765
@@ -19,7 +19,7 @@ creator:
     - http://en.wikipedia.org/wiki/Theodor_Fontane
   - agent_name: Keller, Gottfried
     alias: Keller, Gotfryd
-    birthdate: *id001
+    birthdate: 1819
     deathdate: 1890
     gutenberg_agent_id: '2159'
     url: http://www.gutenberg.org/2009/agents/2159
@@ -51,6 +51,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1119
     wikipedia: http://en.wikipedia.org/wiki/William_Allen_Neilson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34506#The-Harvard-Classics-Shelf-of-Fiction---GermanGerman-Fiction-Selected-by-Charles-W.-Eliot-LL._
 gutenberg_issued: '2010-11-30'
 gutenberg_type: Text
 identifiers:
