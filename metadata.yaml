@@ -1,0 +1,68 @@
+_repo: The-Harvard-Classics-Shelf-of-Fiction---GermanGerman-Fiction-Selected-by-Charles-W.-Eliot-LL.__34506
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fontane, Theodor
+    aliases:
+    - Fontane, Henri Theodore
+    - Fontane, Henri Théodore
+    - Fontane, Teodor
+    birthdate: &id001 1819
+    deathdate: 1898
+    gutenberg_agent_id: '1765'
+    url: http://www.gutenberg.org/2009/agents/1765
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Theodor_Fontane
+    - http://en.wikipedia.org/wiki/Theodor_Fontane
+  - agent_name: Keller, Gottfried
+    alias: Keller, Gotfryd
+    birthdate: *id001
+    deathdate: 1890
+    gutenberg_agent_id: '2159'
+    url: http://www.gutenberg.org/2009/agents/2159
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Gottfried_Keller
+    - http://de.wikipedia.org/wiki/Gottfried_Keller
+  - agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+  - agent_name: Storm, Theodor
+    alias: Storm, Hans Theodor Woldsen
+    birthdate: 1817
+    deathdate: 1888
+    gutenberg_agent_id: '2128'
+    url: http://www.gutenberg.org/2009/agents/2128
+    wikipedia: http://en.wikipedia.org/wiki/Theodor_Storm
+  editor:
+    agent_name: Neilson, William Allan
+    alias: Neilson, W. A. (William Allan)
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '1119'
+    url: http://www.gutenberg.org/2009/agents/1119
+    wikipedia: http://en.wikipedia.org/wiki/William_Allen_Neilson
+description: ''
+gutenberg_issued: '2010-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34506'
+  lccn: '17017428'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Harvard Classics Shelf of Fiction
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcc 'PT'
+title: German Fiction
+url: http://www.gutenberg.org/ebooks/34506
