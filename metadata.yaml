@@ -66,5 +66,6 @@ series_note: The Harvard Classics Shelf of Fiction
 subjects:
 - !lcsh 'German fiction -- Translations into English'
 - !lcc 'PT'
+- GITenberg
 title: German Fiction
 url: http://www.gutenberg.org/ebooks/34506
